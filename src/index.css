@@ -1,0 +1,13 @@
+*{
+  margin: 0; 
+  padding: 0; 
+}
+body{
+    height: 100px;
+    background-image: linear-gradient(#d8c7ff, #19006c);
+    font-family: 'poppins';
+}
+.container .index{
+    margin: auto;
+    font-size: 18px;
+}
